@@ -2,7 +2,7 @@ from matplotlib import pyplot as plt
 from matplotlib import pylab 
 import cv2
 import imutils
-xa=30
+xa=100
 xb=170
 ya=160
 yb=300
